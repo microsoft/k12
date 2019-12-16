@@ -1,64 +1,30 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
----
+# K-12 Azure Educator Resources
+Azure Education can include a number of different areas. This repository will be kept up to date with various projects and lessons that are likely to be a good fit for novices in the K-12 space.
 
-# Official Microsoft Sample
+# Current Offerings
+## Azure for Students Starter
+A free Azure account with access to educational services and no credit card required to sign up. You can learn more about
+it [here](https://azure.microsoft.com/en-us/free/students/starter/)
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
+## Azure for Students
+A free Azure account plus a $100 credit for students 18+ and no credit card required to sign up. You can learn more about it
+[here](https://azure.microsoft.com/en-us/free/students/)
 
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
+## Introduction to Data Science
+We've developed a ~30 hour workshop for adults interested in learning about Python and Data Science, but this curriculum is also effective for high school students. You can find this [here](https://github.com/microsoft/reactors)
 
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
+## Introduction to AI
+As part of Microsoft TEALS, we offer a 4-week project for students to experiment with Azure Cognitive Services. Students
+can quickly start exploring how these services can give insight to complex data such as images. Visit the project
+[here](https://github.com/microsoft/k12/tree/master/TEALS)
 
-Give a short description for your sample here. What does it do and why is it important?
+## Image Data Predicting Climate Change
+In collaboration with HackingSTEM and NASA, we have a introduction to Machine Learning for middle and high school students. With
+Excel and a simple web app, students can learn about how color in images can help us understand how our climate is changing, 
+and then mimic a machine learning model to understand how Azure helps do this at scale. Check out the lesson [here](https://preview.education.microsoft.com/hackingStem/lesson/nv3zo6ad) and the machine learning demo [here](https://nasa-on-azure.azurewebsites.net/)
 
-## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
-
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
-
-## Prerequisites
-
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
-
-## Setup
-
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
-
-## Runnning the sample
-
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+# Deprecated
+## Minecraft Multiplayer VM
+To give more access to Minecraft: Education Edition Multiplayer experience to more schools, we have launched an Azure VM so that
+educators do not have to have a high-end machine to be able to have their entire class connect and collaborate on Minecraft. 
+Learn about it [here](https://azure.microsoft.com/en-us/blog/host-multiplayer-minecraft-education-edition-on-azure-virtual-machines/)
