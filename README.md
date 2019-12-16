@@ -16,7 +16,7 @@ We've developed a ~30 hour workshop for adults interested in learning about Pyth
 ## Introduction to AI
 As part of Microsoft TEALS, we offer a 4-week project for students to experiment with Azure Cognitive Services. Students
 can quickly start exploring how these services can give insight to complex data such as images. Visit the project
-[here](https://github.com/microsoft/k12/tree/master/TEALS)
+[here](https://github.com/microsoft/k12/tree/master/Teals/README.md)
 
 ## Image Data Predicting Climate Change
 In collaboration with HackingSTEM and NASA, we have a introduction to Machine Learning for middle and high school students. With
