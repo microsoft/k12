@@ -2,6 +2,9 @@
 Azure Education can include a number of different areas. This repository will be kept up to date with various projects and lessons that are likely to be a good fit for novices in the K-12 space.
 
 # Current Offerings
+## Student Zone at Build 2020
+Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age for our student developers is 14-21 years old, though that is really just there to guide us in scoping the content we create for you. So if you're a bit outside of these exact ages, you still might find this content useful for your coding journey! This may be perfect for you if you're a career switcher or a even just a beginner! Learn more about the [Student Zone here](https://github.com/microsoft/StudentsAtBuild).
+
 ## Azure for Students Starter
 A free Azure account with access to educational services and no credit card required to sign up. You can learn more about
 it [here](https://azure.microsoft.com/en-us/free/students/starter/)
