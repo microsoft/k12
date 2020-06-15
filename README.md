@@ -39,7 +39,7 @@ Students can learn more about AI and build their projects live via our Imagine C
 Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
 
 ### Microsoft Learn for Students
-Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
+Learn new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
 
 ## Azure for Students Starter
 A free Azure account with access to educational services and no credit card required to sign up. You can learn more about
@@ -55,7 +55,7 @@ We've developed a ~30 hour workshop for adults interested in learning about Pyth
 ## Introduction to AI
 As part of Microsoft TEALS, we offer a 4-week project for students to experiment with Azure Cognitive Services. Students
 can quickly start exploring how these services can give insight to complex data such as images. Visit the project
-[here](https://github.com/microsoft/k12/tree/master/Teals/README.md)
+[here](https://github.com/microsoft/k12/tree/main/Teals/README.md)
 
 ## Image Data Predicting Climate Change
 In collaboration with HackingSTEM and NASA, we have a introduction to Machine Learning for middle and high school students. With
