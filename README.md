@@ -1,3 +1,8 @@
+# Updated Main Branch Name
+Please note that the main branch is now titled `main`. Please make sure all of your pull requests are targeting `main` and that you are pulling from `main`.
+
+For more information about changing your own repo, or about getting your local environment setup for targeting `main`, [reference Scott Hanselman's blog post here](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx).
+
 # K-12 Azure Educator Resources
 Azure Education can include a number of different areas. This repository will be kept up to date with various projects and lessons that are likely to be a good fit for novices in the K-12 space.
 
