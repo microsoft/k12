@@ -19,7 +19,7 @@ The 2020 TEALS Project uses a free-in-browser software called [The Wick Editor](
 
 You can find demos of both Wick Editor and Azure Cognitive Services integrations in the [Demos folder](Demos/) in this repository. 
 
-You can also find an example project for each of the four Azure Cognitive Services APIs introduced in this project (Image, Speech, Text Sentiment, and Video Emotion) in the [Example Projects folder](Example-Projects/) in this repository. 
+You can also find an example project for each of the four Azure Cognitive Services APIs introduced in this project (Image, Speech, Text Sentiment, and Video Emotion) in the [Example Projects folder](https://github.com/microsoft/k12/tree/main/Teals/2020%20Projects/Example%20Projects) in this repository. 
 
 Finally, you can find video explanations here:  
 [Image Analysis](https://tealsresources.blob.core.windows.net/teals-2020-videos/WickEditor_ImageAnalysis_FullEdit.mp4)  
