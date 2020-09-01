@@ -37,5 +37,5 @@ For this project you will need:
 
 ### Curriculum Materials
 __VSCode:__
-[Teacher Guide within this Repo](Spring-2020-TEALS-Project-Teacher-Guide/)  
-[Student Guide within this Repo](Spring-2020-TEALS-Project-Student-Guide/)  
+[Teacher Guide within this Repo](https://github.com/microsoft/k12/tree/main/Teals/2020%20Projects/Spring%202020%20TEALS%20Project%20Teacher%20Guide)  
+[Student Guide within this Repo](https://github.com/microsoft/k12/tree/main/Teals/2020%20Projects/Spring%202020%20TEALS%20Project%20Student%20Guide)  
